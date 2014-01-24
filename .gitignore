@@ -1,0 +1,8 @@
+*.meta
+*.dll
+Library/
+Temp/
+*.csproj
+*.unityproj
+*.sln
+*.DotSettings
